@@ -1,15 +1,15 @@
-<img src="https://scontent.fdac34-1.fna.fbcdn.net/v/t39.30808-6/278845866_179985977796207_5799394904846360516_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFZdXuOZubuair0g0RQN0XsYEQUYCaH7fxgRBRgJoft_CVZN4QBG2LxL3zJP4vlj3FweFWPcHof1cPpxOUm06uf&_nc_ohc=MWFtS4vwI_gAX8zh3R0&_nc_zt=23&_nc_ht=scontent.fdac34-1.fna&oh=00_AT_84fpKnhqRolS1cse0H2RX0JdqO3HLsTj4NwTIF9jxNw&oe=62D1B331)](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/278845866_179985977796207_5799394904846360516_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFZdXuOZubuair0g0RQN0XsYEQUYCaH7fxgRBRgJoft_CVZN4QBG2LxL3zJP4vlj3FweFWPcHof1cPpxOUm06uf&_nc_ohc=0zX05hydQiIAX8THghD&_nc_ht=scontent.fdac99-1.fna&oh=00_AT8w0vLL5dQZo2UUJBVkizanBNLtRRTVITeR7RYu7eumUQ&oe=62EF5CF1"/>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D8742889739064085%26set%3Da.780291101990695&show_text=true&width=500" width="500" height="437" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
-### Hey This is BK Badhon
+### Hey This is Badhon Barmon
 
 
-I am a web developer. I always try to make a creative and responsive project.
+I am a Mern Stack Developer. I always try to make a creative and responsive project.
 
-Skills:  HTML / CSS/ JavaScript / Python
+Skills:  HTML / CSS/ Bootstrap/ Tailwind CSS/ JavaScript / React / Node Js/ Express Js/ Mongodb
 
 - 🔭 I’m currently working on Study 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently Finding Job 
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Developer 
 - 💬 Ask me about Web Development 

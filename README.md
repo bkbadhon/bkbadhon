@@ -6,7 +6,7 @@
 
 I am a Mern Stack Developer. I always try to make a creative and responsive project.
 
-Skills:  HTML / CSS/ Bootstrap/ Tailwind CSS/ JavaScript / React / Node Js/ Express Js/ Mongodb
+Skills:  HTML / CSS/ Bootstrap/ Tailwind CSS/ JavaScript / React js / Next js / Node Js/ Express Js/ Mongodb
 
 - 🔭 I’m currently working on Study 
 - 🌱 I’m currently Finding Job 

@@ -57,23 +57,13 @@ HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React.js • Next
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bkbadhon&theme=tokyonight" alt="streak stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkbadhon&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/bkbadhon" alt="metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bkbadhon&theme=tokyonight" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bkbadhon&theme=github" alt="activity graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/bkbadhon" alt="profile views" />
+  <img src="https://img.shields.io/github/contributions/bkbadhon?color=blue&logo=github&label=Contributions" alt="GitHub contributions" />
 </p>

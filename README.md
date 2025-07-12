@@ -8,7 +8,9 @@
 
 ## 💻 Skills
 
-HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React.js • Next.js • Node.js • Express.js • MongoDB
+HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React.js • Next.js • Node.js • Express.js • MongoDB • Firebase • JWT • Vercel •
+PWA App • Hosting & Domain • SEO •
+Ads Network •
 
 ---
 

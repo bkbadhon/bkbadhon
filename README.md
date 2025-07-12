@@ -1,34 +1,79 @@
+<h1 align="center">👋 Hey, I'm Badhon Barmon</h1>
 
+<p align="center">
+  <strong>MERN Stack Developer | Creative & Responsive Web Projects Enthusiast</strong>
+</p>
 
+---
 
-### Hey This is Badhon Barmon
+## 💻 Skills
 
+HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React.js • Next.js • Node.js • Express.js • MongoDB
 
-I am a Mern Stack Developer. I always try to make a creative and responsive project.
+---
 
-Skills:  HTML / CSS/ Bootstrap/ Tailwind CSS/ JavaScript / React js / Next js / Node Js/ Express Js/ Mongodb
+## 🚀 About Me
 
-- 🔭 I’m currently working on Study 
-- 🌱 I’m currently Finding Job 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Developer 
-- 💬 Ask me about Web Development 
+- 🔭 Currently focused on **studying & building projects**
+- 🌱 Actively **looking for opportunities**
+- 👯 Open to **collaboration on GitHub**
+- 🤝 Always eager to **help & learn with other developers**
+- 💬 Ask me about anything related to **web development**
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bkbadhon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bkbadhon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BadhonChandro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/BKBadhonOfficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.badhon24.wapkiz.com)  
+## 🌐 Connect with Me
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p align="center">
+  <a href="https://github.com/bkbadhon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30"/></a>
+  <a href="https://www.instagram.com/bkbadhon/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30"/></a>
+  <a href="https://twitter.com/BadhonChandro"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30"/></a>
+  <a href="https://www.youtube.com/channel/BKBadhonOfficial"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30"/></a>
+  <a href="https://www.badhon24.wapkiz.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="Website" height="30"/></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bkbadhon)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkbadhon)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Badges
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bkbadhon&show_icons=true&count_private=true)  
+<p align="center">
+  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
+  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a>
+  <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a>
+  <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a>
+  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bkbadhon)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/bkbadhon)  
+## 📊 My GitHub Stats
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bkbadhon)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bkbadhon&theme=onedark" alt="trophies" />
+</p>
 
-![Profile views](https://gpvc.arturio.dev/bkbadhon)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bkbadhon&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bkbadhon&theme=tokyonight" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkbadhon&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/bkbadhon" alt="metrics" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=bkbadhon&theme=github" alt="activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/bkbadhon" alt="profile views" />
+</p>

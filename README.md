@@ -8,8 +8,8 @@
 
 ## 💻 Skills
 
-HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React.js • Next.js • Node.js • Express.js • MongoDB • Firebase • JWT • Vercel •
-PWA App • Hosting & Domain • SEO •
+HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React.js • Next.js • Node.js • Express.js • MongoDB • Firebase • JWT • Railway • VPS • Vercel • 
+PWA App • Hosting & Domain • SEO • Google Analytics •
 Ads Network •
 
 ---
